@@ -98,7 +98,7 @@ def compare_logs(delphy_log_filename, wallclock_delphy_min,
 
 Path('plots').mkdir(parents=True, exist_ok=True)
 
-wallclock_delphy_min = 52 + 29.759 / 60.0
+wallclock_delphy_min = 66 + 38.610/60.0
 wallclock_beast2_min = 145 + 47.071/60.0
 
 compare_logs(
@@ -108,7 +108,7 @@ compare_logs(
     burnin=0.30
 )
 
-wallclock_delphy_alpha_min = 61 + 52.171 / 60.0
+wallclock_delphy_alpha_min = 77 + 22.799/60.0
 wallclock_beast2_alpha_min = 188 + 40.471/60.0
 
 compare_logs(

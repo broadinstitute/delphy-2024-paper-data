@@ -33,7 +33,7 @@ The final plots that were composed into the paper figures are in the `plots` dir
 
 ## Software versions used
 
-- Delphy Version 0.99 (build 2020, commit `8e1dda4`)
+- Delphy Version 0.996 (build 2022, commit `33c06a8`)
 - BEAST v2.6.2
 - BEAGLE commit `3a8d3e6` (Sun Mar 10 2024)
 

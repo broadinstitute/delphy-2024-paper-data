@@ -7,6 +7,10 @@ there is no guarantee that they will run perfectly in the future and/or on your 
 these scripts moving forward.  Instead, the aim of this repo is to be living documentation of all the details of the
 runs and plots.
 
+Some files in this repo (notably `*.dphy` run results file) were to big to push to GitHub; their sizes ranged from 24
+MiB to 302 MiB.  They are available upon request to `pvarilly@broadinstitute.org`.  Suggestions for a long-term
+repository for these files are also welcome.
+
 ## Usage
 
 Create a Python virtualenv and install the associated requirements:
@@ -33,7 +37,7 @@ The final plots that were composed into the paper figures are in the `plots` dir
 
 ## Software versions used
 
-- Delphy Version 0.996 (build 2022, commit `33c06a8`)
+- Delphy Version 0.9995 (build 2026, commit `cf8d1b0`)
 - BEAST v2.6.2
 - BEAGLE commit `3a8d3e6` (Sun Mar 10 2024)
 

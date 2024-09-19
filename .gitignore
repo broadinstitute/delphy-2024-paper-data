@@ -3,3 +3,6 @@
 /mafft
 /treeannotator2
 /delphy-env
+
+# *.dphy files are too large to store in a Git repo; available upon request to pvarilly@broadinstitute.org
+*.dphy

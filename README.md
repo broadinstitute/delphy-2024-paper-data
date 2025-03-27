@@ -1,5 +1,11 @@
 # Delphy paper data
 
+---
+
+__NOTE__: These data files and scripts relate to the [Delphy whitepaper](https://github.com/broadinstitute/delphy/blob/main/delphywp.pdf) from fall 2024.  They are superseded and expanded in by the [delphy-2025-paper-data](https://github.com/broadinstitute/delphy-2025-paper-data) repo that accompanies the more in-depth [preprint](https://www.biorxiv.org/content/10.1101/2025.03.25.645253v1) from Mar 2025.
+
+---
+
 Datasets, scripts for analyzing them, and scripts to generate figures.
 
 Although these scripts were last successfully run in 2024 to prepare, execute and analyze the Delphy and BEAST2 runs,
